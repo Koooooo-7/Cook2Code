@@ -1,2 +1,2 @@
 # Cook2Code
-Translating recipes in a code way.
+Algorithm is recipe, I learn to make dish.
